@@ -5,3 +5,5 @@ python-dotenv
 huggingface_hub
 requests
 textblob
+matplotlib
+snowflake-snowpark-python
